@@ -1,0 +1,189 @@
+body{
+	
+	background-color: #466624;
+}
+th{
+	
+text-align: right;
+padding-right: 110px;
+	
+	color:white;
+}
+td{
+	text-align: center;
+	background-color: black;
+	border: 1px;
+	border-color: black;
+	color:white;
+	padding:5px;
+}
+table{
+	border-spacing: 0;
+}
+img { 
+float:right; 
+}
+h2{
+	width:350px;
+	font-size: 80px;
+	font-style: solid;
+	border-style: solid;
+    border-bottom-width: 5px;
+}
+.bio{
+	width:900px;
+	font-size: 20px;
+	float:left;
+}
+
+
+.conectwithus{
+	height:120px;
+	width:100%;
+	position: absolute;
+text-align: center;
+
+margin:25px auto 0 auto;
+border: solid;
+border-width: 3px;
+clear:both;
+	
+}
+h3{
+	font-size: 24px;
+}
+.copyright{
+	margin-top: 5px;
+}
+
+.social{
+	margin:10px auto 0 auto;
+	width:200px;
+	height:200px;
+
+}
+.form{
+	margin:0 0 0 100px;
+}
+.phone{
+	margin:25px 50px 0 0;
+}
+.portfolio{
+	text-align: center;
+	margin-bottom:10px;
+}
+.imgconstruction{
+float:right;
+margin:0 auto 0 auto;
+}
+.back{
+	text-align: center;
+	clear:both;
+}
+.container1{
+	margin:0 auto 0 auto;
+	height:500px;
+	width:400px;
+		}
+
+.biotitle{
+	width:800px;
+	height:800px;
+	font-size: 20px;
+		}
+.main-content{
+	margin:20px 0 0 20px;
+}
+
+@media only screen and (max-width: 640px) {
+
+.imgconstruction{
+margin:0 auto 0 auto;}
+
+.container1{
+	margin:0 auto 0 auto;
+	height:400px;
+	width:400px;
+}
+.phone{
+	width:0px;
+	height:0px;
+}
+.form{
+	margin:0 auto 0 5px;}
+
+
+th{
+	text-align: center;
+}
+
+body{
+	background-color: red;
+}
+.conectwithus{
+	margin-top:600px;
+	clear:both;
+}
+}
+
+@media only screen and (max-width: 768px) {
+
+body{
+		background-color: yellow;}
+	}
+	.container1{
+	margin:0 auto 0 auto;
+	height:500px;
+	width:400px;
+		}
+.imgconstruction{
+margin:0 auto 0 auto;}
+
+.phone{
+	width:0px;
+	height:0px;}
+.form{
+	margin:0 auto 0 5px;}
+}
+
+th{
+	
+text-align: right;
+padding-right: 110px;}
+}
+
+
+
+
+
+
+@media only screen and (max-width: 980px) {
+
+body{
+	background-color: blue;
+	}
+	.container1{
+	margin:0 auto 0 auto;
+	height:500px;
+	width:400px;
+		}
+	
+.imgconstruction{
+margin:0 auto 0 auto;}
+
+th{
+	
+text-align: right;
+padding-right: 110px;}
+
+}
+
+
+
+
+
+
+
+
+
+
